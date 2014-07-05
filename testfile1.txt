@@ -1,3 +1,6 @@
 This is me adding a line to this file. I am logged onto my website at Godaddy
 and I just cloned this repo into a directory. Now I am going to try to push
 the changes back to GitHub.
+
+This is me on my MacBook making a change to this file. I am going to attempt to push it back to GitHub.
+
